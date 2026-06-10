@@ -1,0 +1,55 @@
+Req. ID,Requirement Description,UseCase ,TestObjectives
+R1,"Users can view the courses
+they are enrolled in",Course Dashboard,"Verify the correct course list
+based on user identity"
+R2,"Users can access a course
+and see its classes ordered
+by date",Course Access,"Check class listing, ordering 
+by date, access control"
+R3,"Teacher can create a
+course with title and
+optional image",Course Creation,"Validate required/optional 
+fields, authorization"
+R4,"Teacher can create a class
+with details (title, description, 
+date/time, files, forum, students)",Class Creation,"Validate all class fields and 
+conditions, check UI elements"
+R5.1,"Student sees class information 
+on the dashboard",Dashboard Information,"Ensure correct and complete info
+display"
+R5.2,"Student can comment if forum 
+is enabled",Forum Interaction,"Check permission, forum 
+activation, successful posting"
+R5.3,"Student can download attached 
+class files",File Download,"Validate file presence and 
+download functionality"
+R6,"Teacher conducts a class
+session",Class Conduction,"Test audio/video control, session
+start/end, chat, student 
+management"
+R7,Student attends class,Class Attendance,"Validate joining, media stream
+handling, chat, request turn"
+R8,Users register with email,User Registration,"Test valid/invalid emails, duplicates,
+ CAPTCHA enforcement"
+R9,Users log in to the application,User Login,"Check credentials, error handling,
+session creation"
+R10,"Teacher can edit course
+attributes",Course Editing,Validate editable fields and persistence
+R11,Teacher can edit class attributes,Class Editing,"Verify changes and impact on
+course/class list"
+R12,"Users modify their profile
+info",Profile Editing,"Test fields (username, email, password, 
+image) and save"
+R13,"Teacher adds a course
+description with text/ images/ 
+links",Course Description,"Validate formatting support and
+rendering"
+R14,"CAPTCHA enforced at
+registration",CAPTCHA Verification,"Ensure presence and correctness
+of CAPTCHA logic"
+R15,"Users access calendar of
+their classes",Class Calendar,"Validate calendar population, filtering by 
+user and date"
+R16,"Teacher adds students via
+email(s) or file",Student Enrollment,"Test multiple input methods and
+error handling"

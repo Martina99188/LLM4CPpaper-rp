@@ -1,0 +1,12 @@
+Req. ID,Description,Reason for Selection
+R3,Teacher Course Creation,"Involves role validation, form input,
+and optional settings."
+R5,Student Dashboard Interaction,"Common student-facing functionality, 
+includes visual elements and
+navigation."
+R9,User Login,"Core authentication process with input 
+validation and error handling."
+R12,User Profile Modification,"Includes text input, format constraints, and 
+user-specific updates."
+R14,CAPTCHA Enforcement,"Security-related feature with negative test 
+case scenarios."

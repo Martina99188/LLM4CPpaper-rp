@@ -1,0 +1,35 @@
+The system under study is a web-based educational platform designed to support remote teaching and learning in a 
+realistic and structured environment. The platform facilitates interaction between two primary user roles, 
+teachers and students, enabling the creation, management, and participation in online courses and synchronous 
+virtual classes. Its functionality covers course administration, real-time communication, user management, 
+scheduling, and content sharing, aiming to replicate a complete classroom experience in a virtual setting.
+
+Teachers are responsible for creating and managing courses by providing essential information such as course 
+titles and optional multimedia descriptions, including formatted text, images, and external links. Each course 
+may contain multiple classes, which can be scheduled by specifying attributes such as title, description, date, 
+time, and enrolled students. Teachers can also upload learning materials associated with each class and 
+optionally enable discussion forums to support asynchronous interaction. The system allows full flexibility, 
+enabling teachers to update or modify courses and class information at any time.
+
+A key feature of the platform is the support for synchronous virtual classrooms. Teachers can initiate live 
+sessions where they control the flow of the class, manage audio and video streams, monitor participants, and 
+regulate speaking permissions. A structured “intervention turn” mechanism allows students to request speaking 
+rights, which can be granted or denied by the teacher, ensuring organized communication during live sessions. 
+Students can interact through chat, participate in discussions, and contribute using audio or video when 
+authorized.
+
+Students primarily interact with the platform through personalized dashboards that list their enrolled courses 
+and scheduled activities. Within each course, they can access learning materials, view upcoming classes, and 
+participate in forum discussions if enabled by the teacher. During live sessions, students can attend virtual 
+classes, view real-time audio and video streams, and request speaking opportunities. They also have access to 
+relevant class metadata, including schedules, duration, and participant lists.
+
+The system includes standard authentication and profile management functionalities. Users must register using a 
+valid email address and complete CAPTCHA verification during registration. After authentication, users can 
+log in and manage personal information such as usernames, passwords, and profile pictures. Additionally, a 
+calendar feature is provided to help users visualize and manage all scheduled classes and activities.
+
+Overall, the platform provides a comprehensive simulation of traditional classroom dynamics, supporting both 
+synchronous and asynchronous modes of instruction. Its design emphasizes usability, structured interaction, 
+and fine-grained control over teaching activities, making it suitable for realistic educational scenarios 
+involving both teachers and students.
