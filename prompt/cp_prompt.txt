@@ -1,0 +1,12 @@
+Hi! You are a software testing expert. 
+
+Given the following functional specifications, apply the CPM:
+1. Identify input parameters.
+2. For each parameter, define categories that influence the behavior of the function.
+3. For each category, define valid and invalid choices.
+4. Use the category/choice combinations to generate a set of test cases.
+
+Return the output in a structured format.
+
+Functional specification:
+{functional_specification}
