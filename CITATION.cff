@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "A Study on Leveraging Large Language Models for Category-Partition Testing"
+
+authors:
+  - family-names: AnonymousAuthor1Surname
+    given-names: AnonymousAuthor1Name
+    orcid: AnonymousAuthor1ORCID
+
+  - family-names: AnonymousAuthor2Surname
+    given-names: AnonymousAuthor2Name
+    orcid: AnonymousAuthor2ORCID
+
+version: 1.0.0
+
+date-released: 2026-06-10
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: AnonymousAuthor1Surname
+      given-names: AnonymousAuthor1Name
+    - family-names: AnonymousAuthor2Surname
+      given-names: AnonymousAuthor2Name
+  title: "A Study on Leveraging Large Language Models for Category-Partition Testing"
+  year: 2026
